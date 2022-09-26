@@ -4,6 +4,8 @@ public class Main {
 
 
         System.out.println("hej bloggen");
+
+        System.out.println("hold op");
     }
 
 
