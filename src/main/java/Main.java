@@ -10,6 +10,9 @@ public class Main {
         System.out.println("test,test");
 
         System.out.println("MANDAG");
+
+        System.out.println("hej");
+
     }
 
 
