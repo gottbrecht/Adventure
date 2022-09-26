@@ -12,6 +12,8 @@ public class Main {
 
         System.out.println("HEJ MED JER");
 
+        System.out.println("lldldld");
+
     }
 
 
