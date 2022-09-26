@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Hello beautiful people");
 
 
-        System.out.println("hello");
+        System.out.println("hello, jeg er sej");
     }
 
 
