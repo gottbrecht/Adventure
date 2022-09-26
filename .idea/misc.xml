@@ -3,7 +3,11 @@
 <<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="18" project-jdk-type="JavaSDK">
 =======
+<<<<<<< HEAD
+  <component name="ProjectRootManager" version="2" project-jdk-name="18" project-jdk-type="JavaSDK">
+=======
   <component name="ProjectRootManager" version="2" project-jdk-name="19" project-jdk-type="JavaSDK">
+>>>>>>> origin/master
 >>>>>>> origin/master
     <output url="file://$PROJECT_DIR$/out" />
   </component>
