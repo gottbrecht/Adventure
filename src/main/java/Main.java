@@ -8,7 +8,7 @@ public class Main {
         System.out.println("hold op");
 
 
-        System.out.println("bebebebe");
+        System.out.println("lålålå danmark");
     }
 
 
