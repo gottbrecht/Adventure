@@ -8,6 +8,10 @@ public class Main {
         System.out.println("hold op");
 
         System.out.println("test,test");
+
+
+        System.out.println("HEJ MED JER");
+
     }
 
 
